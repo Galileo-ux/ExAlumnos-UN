@@ -366,7 +366,9 @@ footer {
 ========================= */
 
 .workshops {
-    background: linear-gradient(135deg, #0f244e, #173d74);
+    background:
+        linear-gradient(135deg, rgba(15, 36, 78, 0.88), rgba(23, 61, 116, 0.72)),
+        url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
 }
 
 .workshop-container {
